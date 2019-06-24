@@ -4,6 +4,5 @@
 # Tools included
 * Terraform
 * AWS CLI
+* Docker
 * Ansible
-* Minikube
-* Helm
